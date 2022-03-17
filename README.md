@@ -12,10 +12,10 @@ This repository is The Carpentries' ([Software Carpentry][swc-site], [Data Carpe
 2. Please *do your work in your repository's `gh-pages` branch*, since that is what is
    [automatically published as a website by GitHub][github-project-pages].
 
-3. Once you are done, please also [let us know][email] the workshop URL. If this is a self-organised
-   workshop, you should also [fill in the self-organized workshop
-   form][self-organized-workshop-form] (if you have not already done so), so we can keep track of
-   all workshops. We build the list of workshops on our websites from the data included in your
+3. If this is a Centrally-Organsied workshop, please [send us][email] the workshop URL. If this is a Self-Organised
+   workshop, please [fill in the Self-Organized workshop
+   form][self-organized-workshop-form] to give us the workshop URL (this will also help us keep track of
+   all workshops). We build the list of workshops on our websites from the data included in your
    `index.md` page. We can only do that if you [customize][customization] that page correctly *and*
    let us know the workshop URL.
 
